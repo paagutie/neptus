@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <system xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="..\src\schemas\neptus-vehicle.xsd">
     <properties>
-        <id>imc_ros2_bridge</id>
-        <name>imc_ros2_bridge</name>
+        <id>MiniROV</id>
+        <name>MiniROV</name>
         <type>AUV</type>
         <appearance>
             <x-size>1.2</x-size>
